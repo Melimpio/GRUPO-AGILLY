@@ -139,9 +139,6 @@ https://github.com/Melimpio/GRUPO-AGILLY/blob/main/BACKLOG%20das%20SPRINTS.docx%
 
 
 
-https://fatecspgov-my.sharepoint.com/:p:/r/personal/angela_silva15_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Modelo_Feira_Solucoes%202025-2%20(1).pptx%20a.pptx?d=wfa6e09f9d5ff453eb31f64dab0d5cc4f&csf=1&web=1&e=OaZszp
-
-https://teams.microsoft.com/l/message/19:d000eee65cec4c67ad754df45db73454@thread.v2/1764682525010?context=%7B%22contextType%22%3A%22chat%22%7D
 
 
 #### Cronograma das Sprints
