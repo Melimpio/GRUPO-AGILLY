@@ -100,8 +100,11 @@ Equipe distribui as atividades necessárias para que as user stories da sprint s
 
 <img width="859" height="477" alt="{6F7A4BF6-5AB9-447D-9D3A-4B3900C48030}" src="https://github.com/user-attachments/assets/a3bf97d8-d9d6-448b-b6f3-4470b2d39738" />
 
+
 https://github.com/Melimpio/GRUPO-AGILLY/blob/main/api1atualizado%201%20(1).pbix
 
+
+https://github.com/Melimpio/GRUPO-AGILLY/blob/main/Slide%20sprint1%202%20semestre%20(2)%20TEND%C3%8ANCIA%20.pptx%20tt.pptx1%201.pptx
 
 
 ## Sprint 3
