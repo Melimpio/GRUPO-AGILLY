@@ -10,14 +10,14 @@ Este repositório apresenta um projeto de análise da cadeia produtiva do setor 
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
+
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores
+
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -32,8 +32,6 @@ Sprint | Previsão | Status| Histórico|
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
-> Possíveis status: a fazer, em progresso e concluido
 
 
 # Equipe
@@ -63,6 +61,8 @@ Git Hub
 PowerPoint
 
 Interligência Artificial
+
+### Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
 Objetivo:Tratamento e filtragem avançada das bases do Comex Stat
@@ -139,8 +139,6 @@ https://fatecspgov-my.sharepoint.com/:p:/r/personal/angela_silva15_fatec_sp_gov_
 
 https://teams.microsoft.com/l/message/19:d000eee65cec4c67ad754df45db73454@thread.v2/1764682525010?context=%7B%22contextType%22%3A%22chat%22%7D
 
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
 
 #### Cronograma das Sprints
 
@@ -185,7 +183,7 @@ Apresentação da Sprint 3 em video
 
 Relatório
 
-# Autores
+## Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner| Melissa Olimpio| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
