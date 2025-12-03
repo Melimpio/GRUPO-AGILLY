@@ -111,6 +111,8 @@ Gravação da Apresentação final do Dashboard e Slides em Video.
 
 Entrega  Backlog Sprint e Relatório Final
 
+<img width="785" height="562" alt="{AD537988-AB17-4F83-A296-4394201F78E2}" src="https://github.com/user-attachments/assets/715ee720-dddc-45a3-961b-0b392983db9f" />
+
 https://youtu.be/v8NkIDwJZi0?si=3t6wbUchnxtovy_p85%22%7D
 
 https://teams.microsoft.com/l/message/48:notes/1764207205492?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A7a475e95-05c2-47ac-ba2b-188262afc6
@@ -125,9 +127,17 @@ https://teams.microsoft.com/l/message/19:d000eee65cec4c67ad754df45db73454@thread
 
 
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
+## Apresentação da Feira de Soluções
+
+<img width="726" height="401" alt="image" src="https://github.com/user-attachments/assets/a61f23cf-481e-4d4b-a82f-faa1d437db47" />
+
+<img width="725" height="400" alt="{16A3930E-5E7F-423C-93DD-99D454F5CEF9}" src="https://github.com/user-attachments/assets/3ad2d73e-87b8-4840-8a10-6b07a338330d" />
+
+
+
+https://fatecspgov-my.sharepoint.com/:p:/r/personal/angela_silva15_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Modelo_Feira_Solucoes%202025-2%20(1).pptx%20a.pptx?d=wfa6e09f9d5ff453eb31f64dab0d5cc4f&csf=1&web=1&e=OaZszp
+
+https://teams.microsoft.com/l/message/19:d000eee65cec4c67ad754df45db73454@thread.v2/1764682525010?context=%7B%22contextType%22%3A%22chat%22%7D
 
 [![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
