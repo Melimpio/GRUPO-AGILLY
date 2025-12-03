@@ -138,7 +138,7 @@ https://github.com/Melimpio/GRUPO-AGILLY/blob/main/BACKLOG%20das%20SPRINTS.docx%
 <img width="725" height="400" alt="{16A3930E-5E7F-423C-93DD-99D454F5CEF9}" src="https://github.com/user-attachments/assets/3ad2d73e-87b8-4840-8a10-6b07a338330d" />
 
 
-
+https://github.com/Melimpio/GRUPO-AGILLY/blob/main/Modelo_Feira_Solucoes%202025-2%20(1).pptx%20a%201.pptx
 
 
 #### Cronograma das Sprints
