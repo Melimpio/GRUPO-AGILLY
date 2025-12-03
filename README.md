@@ -50,8 +50,8 @@ Análise e visualização com Power BI
 
 Aplicação de Inteligência Artificial
 
-
 # Tecnologias Utilizadas
+
 Python (Colab)
 
 Plataforma Comex Stat
@@ -65,26 +65,57 @@ PowerPoint
 Interligência Artificial
 
 ## Sprint 1
->Colocar o vídeo da apresentação
+Objetivo:Tratamento e filtragem avançada das bases do Comex Stat
 
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+Identificação dos datasets disponíveis (dados decodificados).
+Análise e visualização com Power BI
+
+Aplicação de Inteligência Artificial
+
+
+Elaborar um Relatório de Exportação.
+
+# Relatório de Exportações Aeronáuticas – Estado de São Paulo (2021–2025) 
+
+<img width="655" height="466" alt="image" src="https://github.com/user-attachments/assets/a4096d86-f93c-4bb8-b279-f0ba3297822c" />
 
 
 ## Sprint 2
->Colocar o vídeo da apresentação
+Objetivo:Unificação das bases de dados no Google Colab
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+Tratamento dos dados (SH4, países, municípios, VL_FOB etc.)
+
+Criação da base consolidada com 5 anos de exportações
+
+Desenvolvimento do primeiro dashboard no Power BI
+
+Transformar o escopo em requisitos claros. Entregas: Backlog final (requisitos escritos, priorizados e explicados).
+Avaliação dos dados do Power BI:
+
+Validar backlog com cliente
+Produção dos Slides, Dashboards e Backlog
+
+Equipe distribui as atividades necessárias para que as user stories da sprint sejam executadas
+<img width="834" height="472" alt="image" src="https://github.com/user-attachments/assets/6fe8edf7-9756-43eb-a6b1-a55b78abb095" />
+<img width="838" height="461" alt="{A7728486-8F8D-4CAA-AD1C-919612509BEA}" src="https://github.com/user-attachments/assets/9e7cc7db-0ad3-4b11-ace9-cee499fdb2f8" />
+<img width="803" height="456" alt="{8A0414B5-5FE4-46E5-894B-E0234B62810D}" src="https://github.com/user-attachments/assets/d664b93f-02b0-4226-a137-ce7117f55ab3" />
+
+<img width="859" height="477" alt="{6F7A4BF6-5AB9-447D-9D3A-4B3900C48030}" src="https://github.com/user-attachments/assets/a3bf97d8-d9d6-448b-b6f3-4470b2d39738" />
+https://fatecspgov.sharepoint.com/:p:/r/sites/PIIGPI-G5-20251/Shared%20Documents/General/Slide%20sprint1%202%20semestre%20(1).pptx?d=w60d23a349aaf4656b9cd3c079177d817&csf=1&web=1&e=DbK35a
+https://fatecspgov.sharepoint.com/:u:/r/sites/PIIGPI-G5-20251/Shared%20Documents/General/api1atualizado.pbix?csf=1&web=1&e=YtMyNb
 
 ## Sprint 3
->Colocar o vídeo da apresentação
+Gravação da Apresentação final do Dashboard e Slides em Video.
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+Entrega Sprint e Relatório Final
+https://youtu.be/v8NkIDwJZi0?si=3t6wbUchnxtovy_p85%22%7D
+
+https://teams.microsoft.com/l/message/48:notes/1764207205492?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A7a475e95-05c2-47ac-ba2b-188262afc6
 
 
-## Sprint 4
->Colocar o vídeo da apresentação
 
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+
+
 
 
 ## Apresentação final (se necessario)
