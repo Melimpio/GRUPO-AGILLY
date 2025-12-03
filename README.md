@@ -100,9 +100,9 @@ Equipe distribui as atividades necessárias para que as user stories da sprint s
 
 <img width="859" height="477" alt="{6F7A4BF6-5AB9-447D-9D3A-4B3900C48030}" src="https://github.com/user-attachments/assets/a3bf97d8-d9d6-448b-b6f3-4470b2d39738" />
 
-https://fatecspgov.sharepoint.com/:p:/r/sites/PIIGPI-G5-20251/Shared%20Documents/General/Slide%20sprint1%202%20semestre%20(1).pptx?d=w60d23a349aaf4656b9cd3c079177d817&csf=1&web=1&e=DbK35a
 
-https://fatecspgov.sharepoint.com/:u:/r/sites/PIIGPI-G5-20251/Shared%20Documents/General/api1atualizado.pbix?csf=1&web=1&e=YtMyNb
+
+
 
 ## Sprint 3
 Gravação da Apresentação final do Dashboard e Slides em Video.
