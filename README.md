@@ -118,7 +118,7 @@ Entrega  Backlog Sprint e Relatório Final
 
 https://youtu.be/v8NkIDwJZi0?si=3t6wbUchnxtovy_p85%22%7D
 
-
+https://github.com/Melimpio/GRUPO-AGILLY/blob/main/api1atualizado%201%20(1).pbix
 
 
 <img width="780" height="594" alt="{D23F3CA4-4387-46AE-8E66-FF2E9F8271C7}" src="https://github.com/user-attachments/assets/63a924b3-820a-4364-8e94-16916039c87d" />
