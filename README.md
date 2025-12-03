@@ -101,19 +101,26 @@ Equipe distribui as atividades necessárias para que as user stories da sprint s
 <img width="803" height="456" alt="{8A0414B5-5FE4-46E5-894B-E0234B62810D}" src="https://github.com/user-attachments/assets/d664b93f-02b0-4226-a137-ce7117f55ab3" />
 
 <img width="859" height="477" alt="{6F7A4BF6-5AB9-447D-9D3A-4B3900C48030}" src="https://github.com/user-attachments/assets/a3bf97d8-d9d6-448b-b6f3-4470b2d39738" />
+
 https://fatecspgov.sharepoint.com/:p:/r/sites/PIIGPI-G5-20251/Shared%20Documents/General/Slide%20sprint1%202%20semestre%20(1).pptx?d=w60d23a349aaf4656b9cd3c079177d817&csf=1&web=1&e=DbK35a
+
 https://fatecspgov.sharepoint.com/:u:/r/sites/PIIGPI-G5-20251/Shared%20Documents/General/api1atualizado.pbix?csf=1&web=1&e=YtMyNb
 
 ## Sprint 3
 Gravação da Apresentação final do Dashboard e Slides em Video.
 
-Entrega Sprint e Relatório Final
+Entrega  Backlog Sprint e Relatório Final
+
 https://youtu.be/v8NkIDwJZi0?si=3t6wbUchnxtovy_p85%22%7D
 
 https://teams.microsoft.com/l/message/48:notes/1764207205492?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A7a475e95-05c2-47ac-ba2b-188262afc6
 
 
+https://teams.microsoft.com/l/message/19:d000eee65cec4c67ad754df45db73454@thread.v2/1764032362694?context=%7B%22contextType%22%3A%22chat%22%7D
 
+<img width="780" height="594" alt="{D23F3CA4-4387-46AE-8E66-FF2E9F8271C7}" src="https://github.com/user-attachments/assets/63a924b3-820a-4364-8e94-16916039c87d" />
+
+<img width="785" height="362" alt="{6377D9A1-9370-4C6D-BA71-B0EAB3E54ADD}" src="https://github.com/user-attachments/assets/0a81d6dc-b891-4f5f-9bcf-89437ea944d4" />
 
 
 
