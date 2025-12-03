@@ -94,6 +94,8 @@ Validar backlog com cliente
 Produção dos Slides, Dashboards e Backlog
 
 Equipe distribui as atividades necessárias para que as user stories da sprint sejam executadas
+
+
 <img width="834" height="472" alt="image" src="https://github.com/user-attachments/assets/6fe8edf7-9756-43eb-a6b1-a55b78abb095" />
 <img width="838" height="461" alt="{A7728486-8F8D-4CAA-AD1C-919612509BEA}" src="https://github.com/user-attachments/assets/9e7cc7db-0ad3-4b11-ace9-cee499fdb2f8" />
 <img width="803" height="456" alt="{8A0414B5-5FE4-46E5-894B-E0234B62810D}" src="https://github.com/user-attachments/assets/d664b93f-02b0-4226-a137-ce7117f55ab3" />
