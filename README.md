@@ -129,6 +129,10 @@ https://github.com/Melimpio/GRUPO-AGILLY/blob/main/BACKLOG%20das%20SPRINTS.docx%
 <img width="785" height="362" alt="{6377D9A1-9370-4C6D-BA71-B0EAB3E54ADD}" src="https://github.com/user-attachments/assets/0a81d6dc-b891-4f5f-9bcf-89437ea944d4" />
 
 
+<img width="676" height="545" alt="image" src="https://github.com/user-attachments/assets/2f0e77cc-88f2-4c10-9c8d-4101dfa64980" />
+
+
+https://github.com/Melimpio/GRUPO-AGILLY/blob/main/relat%C3%B3rio%20norma%20abnt.pdf
 
 
 ## Apresentação da Feira de Soluções
