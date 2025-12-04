@@ -29,7 +29,7 @@ Sprint | Previsão | Status| Histórico|
 |01 |06/10/2025 | concluido| [Ver Relatório](https://github.com/Melimpio/GRUPO-AGILLY/blob/main/relat%C3%B3rio%20norma%20abnt.pdf) | 
 |02| 10/11/2025 |Concluido|[Ver Relatório](https://github.com/Melimpio/GRUPO-AGILLY/blob/main/relat%C3%B3rio%20norma%20abnt.pdf) | 
 |03| 24/11/2025 |Concluido|[Ver Relatório](https://github.com/Melimpio/GRUPO-AGILLY/blob/main/relat%C3%B3rio%20norma%20abnt.pdf) | 
-|Feira de Soluções|04/12/2025 |Em andamento |[Ver Relatório]() | 
+|Feira de Soluções|04/12/2025 |Em andamento |[Ver Relatório](https://github.com/Melimpio/GRUPO-AGILLY/blob/main/Modelo_Feira_Solucoes%202025-2%20(1).pptx%20a%201.pptx) | 
 
 
 # Equipe
